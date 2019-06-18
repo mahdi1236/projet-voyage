@@ -1,0 +1,16 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100% ;
+    }
+  .photo{
+      border-radius: 15px;
+  }
+  .table{
+    opacity: 0.5;
+  }
+.deco{
+    background-color:#0066cc;
+}
